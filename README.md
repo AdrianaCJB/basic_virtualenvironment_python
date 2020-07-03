@@ -1,4 +1,4 @@
-# Hoe to create a Virtual environment in Python
+# How to create a Virtual environment in Python
 
 Prerequites - You must have installed:
 
